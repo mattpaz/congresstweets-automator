@@ -36,7 +36,7 @@
     "request-promise": "^4.2.6",
     "string-replace-async": "^3.0.2",
     "twit": "^2.2.11",
-    "word-wrap": "^1.2.3",
+    "word-wrap": "^1.2.4",
     "yargs-parser": "^21.1.1"
   },
   "devDependencies": {
